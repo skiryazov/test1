@@ -15,7 +15,7 @@ on:
 
 env:
   REGISTRY_NAME: smartdev
-  ACR_PRINCIPAL: 4beca1fb-9e2f-4a29-b5cc-8f7b35c0be04
+  ACR_PRINCIPAL: 9075e3ce-7d6d-434b-b21b-68ea1830455c
   ACR_PRINCIPAL_TENANT: 86d52980-68e9-4166-840a-04ef0494ec2c
   APP_NAME: github-cicd-test1
 
